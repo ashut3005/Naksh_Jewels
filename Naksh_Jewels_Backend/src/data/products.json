@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Diamond Necklace",
+    "price": 29999,
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400&h=400&fit=crop",
+    "description": "Elegant diamond necklace with 18k gold setting",
+    "category": "Necklaces"
+  },
+  {
+    "id": 2,
+    "name": "Gold Bracelet",
+    "price": 15999,
+    "image": "https://images.unsplash.com/photo-1611107683227-e9060eccd846?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Traditional gold bracelet with intricate design",
+    "category": "Bracelets"
+  },
+  {
+    "id": 3,
+    "name": "Pearl Earrings",
+    "price": 8999,
+    "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=400&h=400&fit=crop",
+    "description": "Classic pearl earrings for everyday wear",
+    "category": "Earrings"
+  },
+  {
+    "id": 4,
+    "name": "Sapphire Ring",
+    "price": 24999,
+    "image": "https://images.unsplash.com/photo-1603561596112-0a132b757442?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Blue sapphire ring with diamond accents",
+    "category": "Rings"
+  },
+  {
+    "id": 5,
+    "name": "Silver Pendant",
+    "price": 4999,
+    "image": "https://images.unsplash.com/photo-1598009632415-1b42a2c686b6?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Sterling silver pendant with chain",
+    "category": "Pendants"
+  },
+  {
+    "id": 6,
+    "name": "Ruby Studs",
+    "price": 12999,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=400&fit=crop",
+    "description": "Ruby stud earrings in 14k gold",
+    "category": "Earrings"
+  }
+]
